@@ -1,0 +1,8 @@
+cro: 1
+id: croexample
+name: CroExample
+entrypoint: app.raku
+ignore:
+  - .cache
+  - .tom
+  - todo.*
